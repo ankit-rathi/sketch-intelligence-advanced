@@ -17,7 +17,7 @@ for md_file in TOPICS_DIR.glob("*.md"):
         "tags": post.get("tags", []),
         "summary": post.get("summary", ""),
         "date": str(post.get("date", "")),
-        "url":f"/sketch-intelligence/topics/{md_file.stem}/"
+        "url":f"/sketch-intelligence-advanced/topics/{md_file.stem}/"
     })
 
 # Sort latest first
