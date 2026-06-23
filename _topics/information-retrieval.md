@@ -5,7 +5,6 @@ tags: [ai-engineering, leadership, llm-systems, ai-platforms, agent-systems, rel
 summary: Understanding how an AI Engineering Director combines technical leadership, platform thinking, product strategy, and organizational execution to build scalable AI systems and high-performing AI teams.
 date: 2026-06-23
 ---
-<img width="1024" height="1536" alt="image" src="" />
 
 <p align="center">
   <img 
