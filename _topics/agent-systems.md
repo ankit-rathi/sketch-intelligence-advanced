@@ -5,7 +5,6 @@ tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-a
 summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
 date: 2026-06-08
 ---
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/773d87e2-6ef8-4183-8f47-063d909750d6" />
 
 <p align="center">
   <img 
