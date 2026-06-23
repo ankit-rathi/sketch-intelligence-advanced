@@ -2,8 +2,13 @@
   "llm-systems": [
     "director-mindset"
   ],
+  "information-retrieval": [
+    "ai-engineering-director"
+  ],
   "director-mindset": [
     "llm-systems"
   ],
-  "ai-engineering-director": []
+  "ai-engineering-director": [
+    "information-retrieval"
+  ]
 }

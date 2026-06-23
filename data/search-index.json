@@ -1,5 +1,22 @@
 [
   {
+    "title": "Information Retrieval",
+    "category": "AI Leadership",
+    "tags": [
+      "ai-engineering",
+      "leadership",
+      "llm-systems",
+      "ai-platforms",
+      "agent-systems",
+      "reliability-engineering",
+      "product-strategy",
+      "organizational-design"
+    ],
+    "summary": "Understanding how an AI Engineering Director combines technical leadership, platform thinking, product strategy, and organizational execution to build scalable AI systems and high-performing AI teams.",
+    "date": "2026-06-23",
+    "url": "/sketch-intelligence-advanced/topics/information-retrieval/"
+  },
+  {
     "title": "AI Engineering Director",
     "category": "AI Leadership",
     "tags": [
@@ -14,7 +31,7 @@
     ],
     "summary": "Understanding how an AI Engineering Director combines technical leadership, platform thinking, product strategy, and organizational execution to build scalable AI systems and high-performing AI teams.",
     "date": "2026-06-23",
-    "url": "/sketch-intelligence/topics/ai-engineering-director/"
+    "url": "/sketch-intelligence-advanced/topics/ai-engineering-director/"
   },
   {
     "title": "LLM Systems",
@@ -31,7 +48,7 @@
     ],
     "summary": "Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.",
     "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/llm-systems/"
+    "url": "/sketch-intelligence-advanced/topics/llm-systems/"
   },
   {
     "title": "Director Mindset",
@@ -48,6 +65,6 @@
     ],
     "summary": "Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.",
     "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/director-mindset/"
+    "url": "/sketch-intelligence-advanced/topics/director-mindset/"
   }
 ]
