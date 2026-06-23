@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "ai-agents"
+    },
+    {
+      "id": "rag"
+    },
+    {
+      "id": "embeddings"
+    }
+  ],
+
+  "edges": [
+    {
+      "source": "ai-agents",
+      "target": "rag"
+    },
+    {
+      "source": "rag",
+      "target": "embeddings"
+    }
+  ]
+}

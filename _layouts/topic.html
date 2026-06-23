@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+      <title>{{ page.title }}</title>
+
+      <link rel="stylesheet"
+            href="/sketch-intelligence/assets/css/style.css">
+
+</head>
+
+<body data-slug="{{ page.slug | default: page.name }}">
+
+<div class="back-home">
+
+    <a href="/sketch-intelligence/">
+
+        ← Sketch Intelligence
+
+    </a>
+
+</div>
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+<hr>
+
+<div id="connected-concepts"></div>
+
+<hr>
+
+<div class="back-home">
+
+    <a href="/sketch-intelligence/">
+
+        ← Sketch Intelligence
+
+    </a>
+
+</div>
+
+<script src="/sketch-intelligence/assets/js/article.js"></script>
+
+</body>
+
+</html>
