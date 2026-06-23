@@ -1,6 +1,6 @@
 let relatedTopics = {};
 
-fetch("/sketch-intelligence/data/related-topics.json")
+fetch("/sketch-intelligence-advanced/data/related-topics.json")
 
 .then(response => response.json())
 
@@ -48,7 +48,7 @@ function renderConnectedConcepts() {
 
             <a
                 class="concept-card"
-                href="/sketch-intelligence/topics/${topic}/">
+                href="/sketch-intelligence-advanced/topics/${topic}/">
 
                 ${prettify(topic)}
 
