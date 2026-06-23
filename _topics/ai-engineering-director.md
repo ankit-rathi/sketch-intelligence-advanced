@@ -1,9 +1,9 @@
 ---
 title: AI Engineering Director
-category: GenAI
-tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-ai]
-summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
-date: 2026-06-08
+category: AI Leadership
+tags: [ai-engineering, leadership, llm-systems, ai-platforms, agent-systems, reliability-engineering, product-strategy, organizational-design]
+summary: Understanding how an AI Engineering Director combines technical leadership, platform thinking, product strategy, and organizational execution to build scalable AI systems and high-performing AI teams.
+date: 2026-06-23
 ---
 
 <p align="center">
