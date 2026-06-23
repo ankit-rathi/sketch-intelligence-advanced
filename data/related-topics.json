@@ -1,12 +1,18 @@
 {
+  "rag-pipeline": [
+    "director-mindset",
+    "llm-systems"
+  ],
   "llm-systems": [
-    "director-mindset"
+    "director-mindset",
+    "rag-pipeline"
   ],
   "information-retrieval": [
     "ai-engineering-director"
   ],
   "director-mindset": [
-    "llm-systems"
+    "llm-systems",
+    "rag-pipeline"
   ],
   "ai-engineering-director": [
     "information-retrieval"
