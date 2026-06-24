@@ -1,8 +1,8 @@
 ---
 title: RAG Pipeline
 category: AI Engineering
-tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-ai]
-summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
+tags: [rag, retrieval-augmented-generation, information-retrieval, vector-databases, embeddings, context-engineering, llm, knowledge-systems]
+summary: Understanding how Retrieval-Augmented Generation combines search and language models to generate accurate, context-aware responses.
 date: 2026-06-08
 ---
 
