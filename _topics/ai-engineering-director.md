@@ -1,9 +1,9 @@
 ---
 title: AI Engineering Director
-category: AI Leadership
-tags: [ai-engineering, leadership, llm-systems, ai-platforms, agent-systems, reliability-engineering, product-strategy, organizational-design]
-summary: Understanding how an AI Engineering Director combines technical leadership, platform thinking, product strategy, and organizational execution to build scalable AI systems and high-performing AI teams.
-date: 2026-06-23
+category: AI Engineering
+tags: [ai-engineering, leadership, llm-systems, agent-systems, ai-platforms, reliability-engineering, product-strategy, organizational-design]
+summary: Understanding how AI Engineering Directors align technology, people, platforms, and business strategy to build and scale successful AI organizations.
+date: 2026-06-08
 ---
 
 <p align="center">
