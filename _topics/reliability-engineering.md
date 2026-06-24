@@ -1,8 +1,8 @@
 ---
 title: Reliability Engineering
 category: AI Engineering
-tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-ai]
-summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
+tags: [reliability-engineering, sre, observability, monitoring, incident-management, fault-tolerance, scalability, resilience]
+summary: Understanding how reliability engineering ensures systems remain available, resilient, observable, and dependable at scale.
 date: 2026-06-08
 ---
 
