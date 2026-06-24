@@ -20,16 +20,16 @@
     "title": "RAG Pipeline",
     "category": "AI Engineering",
     "tags": [
-      "ai-agents",
+      "rag",
+      "retrieval-augmented-generation",
+      "information-retrieval",
+      "vector-databases",
+      "embeddings",
+      "context-engineering",
       "llm",
-      "tools",
-      "planning",
-      "automation",
-      "memory",
-      "reasoning",
-      "agentic-ai"
+      "knowledge-systems"
     ],
-    "summary": "Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.",
+    "summary": "Understanding how Retrieval-Augmented Generation combines search and language models to generate accurate, context-aware responses.",
     "date": "2026-06-08",
     "url": "/sketch-intelligence-advanced/topics/rag-pipeline/"
   },

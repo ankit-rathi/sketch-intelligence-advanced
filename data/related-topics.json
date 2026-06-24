@@ -5,6 +5,7 @@
   ],
   "rag-pipeline": [
     "agent-systems",
+    "information-retrieval",
     "reliability-engineering"
   ],
   "agent-systems": [
@@ -15,7 +16,9 @@
   "llm-systems": [
     "ai-engineering-director"
   ],
-  "information-retrieval": [],
+  "information-retrieval": [
+    "rag-pipeline"
+  ],
   "production-ai": [
     "ai-engineering-director",
     "distributed-systems"
