@@ -1,9 +1,9 @@
 ---
 title: Information Retrieval
-category: AI Leadership
-tags: [ai-engineering, leadership, llm-systems, ai-platforms, agent-systems, reliability-engineering, product-strategy, organizational-design]
-summary: Understanding how an AI Engineering Director combines technical leadership, platform thinking, product strategy, and organizational execution to build scalable AI systems and high-performing AI teams.
-date: 2026-06-23
+category: AI Engineering
+tags: [information-retrieval, search, indexing, ranking, embeddings, vector-search, retrieval, relevance]
+summary: Understanding how information retrieval systems organize, search, and rank data to efficiently surface relevant information.
+date: 2026-06-08
 ---
 
 <p align="center">
