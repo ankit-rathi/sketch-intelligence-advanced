@@ -1,8 +1,8 @@
 ---
 title: LLM Systems
 category: AI Engineering
-tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-ai]
-summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
+tags: [llm-systems, transformers, prompting, inference, context-windows, model-serving, optimization, generative-ai]
+summary: Understanding how large language model systems are built, deployed, optimized, and integrated into real-world applications.
 date: 2026-06-08
 ---
 
