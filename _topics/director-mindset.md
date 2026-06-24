@@ -1,8 +1,8 @@
 ---
 title: Director Mindset
 category: AI Engineering
-tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-ai]
-summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
+tags: [leadership, systems-thinking, decision-making, strategy, organizational-design, execution, prioritization, business-impact]
+summary: Understanding how engineering directors think in systems, balance trade-offs, and align teams toward long-term business outcomes.
 date: 2026-06-08
 ---
 
