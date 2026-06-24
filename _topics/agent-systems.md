@@ -1,8 +1,8 @@
 ---
 title: Agent Systems
 category: AI Engineering
-tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-ai]
-summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
+tags: [agent-systems, ai-agents, llm, tools, planning, memory, reasoning, automation]
+summary: Understanding how autonomous AI systems combine reasoning, memory, planning, and tool use to execute multi-step tasks and achieve goals.
 date: 2026-06-08
 ---
 
