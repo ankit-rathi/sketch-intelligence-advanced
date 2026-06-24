@@ -2,17 +2,20 @@
   "reliability-engineering": [
     "agent-systems",
     "director-mindset",
+    "distributed-systems",
     "llm-systems",
     "rag-pipeline"
   ],
   "rag-pipeline": [
     "agent-systems",
     "director-mindset",
+    "distributed-systems",
     "llm-systems",
     "reliability-engineering"
   ],
   "agent-systems": [
     "director-mindset",
+    "distributed-systems",
     "llm-systems",
     "rag-pipeline",
     "reliability-engineering"
@@ -20,6 +23,7 @@
   "llm-systems": [
     "agent-systems",
     "director-mindset",
+    "distributed-systems",
     "rag-pipeline",
     "reliability-engineering"
   ],
@@ -28,6 +32,14 @@
   ],
   "director-mindset": [
     "agent-systems",
+    "distributed-systems",
+    "llm-systems",
+    "rag-pipeline",
+    "reliability-engineering"
+  ],
+  "distributed-systems": [
+    "agent-systems",
+    "director-mindset",
     "llm-systems",
     "rag-pipeline",
     "reliability-engineering"

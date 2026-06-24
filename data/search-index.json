@@ -117,5 +117,22 @@
     "summary": "Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.",
     "date": "2026-06-08",
     "url": "/sketch-intelligence-advanced/topics/director-mindset/"
+  },
+  {
+    "title": "Distributed Systems",
+    "category": "AI Engineering",
+    "tags": [
+      "ai-agents",
+      "llm",
+      "tools",
+      "planning",
+      "automation",
+      "memory",
+      "reasoning",
+      "agentic-ai"
+    ],
+    "summary": "Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence-advanced/topics/distributed-systems/"
   }
 ]
