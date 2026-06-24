@@ -1,8 +1,8 @@
 ---
 title: Production AI
 category: AI Engineering
-tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-ai]
-summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
+tags: [production-ai, mlops, deployment, monitoring, observability, scalability, governance, ai-platforms]
+summary: Understanding how AI applications move from experimentation to reliable, scalable, and maintainable production systems.
 date: 2026-06-08
 ---
 
