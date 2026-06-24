@@ -13,7 +13,6 @@
   ],
   "agent-systems": [
     "ai-engineering-director",
-    "information-retrieval",
     "llm-systems",
     "production-ai",
     "rag-pipeline",
@@ -25,11 +24,7 @@
     "rag-pipeline",
     "reliability-engineering"
   ],
-  "information-retrieval": [
-    "agent-systems",
-    "ai-engineering-director",
-    "director-mindset"
-  ],
+  "information-retrieval": [],
   "production-ai": [
     "agent-systems",
     "llm-systems",
@@ -37,13 +32,11 @@
     "reliability-engineering"
   ],
   "director-mindset": [
-    "ai-engineering-director",
-    "information-retrieval"
+    "ai-engineering-director"
   ],
   "distributed-systems": [],
   "ai-engineering-director": [
     "agent-systems",
-    "director-mindset",
-    "information-retrieval"
+    "director-mindset"
   ]
 }
