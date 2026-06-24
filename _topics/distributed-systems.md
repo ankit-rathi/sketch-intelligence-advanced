@@ -1,8 +1,8 @@
 ---
 title: Distributed Systems
 category: AI Engineering
-tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-ai]
-summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
+tags: [distributed-systems, scalability, reliability, networking, fault-tolerance, consistency, cloud-computing, system-design]
+summary: Understanding how distributed systems coordinate computation across multiple machines to deliver scalable, resilient, and highly available applications.
 date: 2026-06-08
 ---
 
