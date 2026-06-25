@@ -51,19 +51,19 @@
     "url": "/sketch-intelligence-advanced/topics/agent-systems/"
   },
   {
-    "title": "Reliability Engineering",
+    "title": "Data Engineering",
     "category": "AI Engineering",
     "tags": [
-      "reliability-engineering",
-      "sre",
-      "observability",
-      "monitoring",
-      "incident-management",
-      "fault-tolerance",
-      "scalability",
-      "resilience"
+      "data-engineering",
+      "data-pipelines",
+      "data-modeling",
+      "etl",
+      "data-quality",
+      "data-warehousing",
+      "event-data",
+      "analytics"
     ],
-    "summary": "Understanding how reliability engineering ensures systems remain available, resilient, observable, and dependable at scale.",
+    "summary": "Understanding how data engineering builds reliable pipelines, platforms, and data models that transform raw data into trusted assets for analytics, AI, and business decision-making.",
     "date": "2026-06-08",
     "url": "/sketch-intelligence-advanced/topics/data-engineering/"
   },
