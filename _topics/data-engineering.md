@@ -1,15 +1,15 @@
 ---
-title: Reliability Engineering
+title: Data Engineering
 category: AI Engineering
-tags: [reliability-engineering, sre, observability, monitoring, incident-management, fault-tolerance, scalability, resilience]
-summary: Understanding how reliability engineering ensures systems remain available, resilient, observable, and dependable at scale.
+tags: [data-engineering, data-pipelines, data-modeling, etl, data-quality, data-warehousing, event-data, analytics]
+summary: Understanding how data engineering builds reliable pipelines, platforms, and data models that transform raw data into trusted assets for analytics, AI, and business decision-making.
 date: 2026-06-08
 ---
 
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/3d2d78fa-3ace-404c-853e-a18fa5d88625"
-    alt="Reliability Engineering"
+    alt="Data Engineering"
     style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
   />
 </p>
