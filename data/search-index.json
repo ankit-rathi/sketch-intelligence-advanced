@@ -51,6 +51,23 @@
     "url": "/sketch-intelligence-advanced/topics/agent-systems/"
   },
   {
+    "title": "Reliability Engineering",
+    "category": "AI Engineering",
+    "tags": [
+      "reliability-engineering",
+      "sre",
+      "observability",
+      "monitoring",
+      "incident-management",
+      "fault-tolerance",
+      "scalability",
+      "resilience"
+    ],
+    "summary": "Understanding how reliability engineering ensures systems remain available, resilient, observable, and dependable at scale.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence-advanced/topics/data-engineering/"
+  },
+  {
     "title": "LLM Systems",
     "category": "AI Engineering",
     "tags": [
