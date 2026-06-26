@@ -51,6 +51,24 @@
     "url": "/sketch-intelligence-advanced/topics/agent-systems/"
   },
   {
+    "title": "Data Management Evolution",
+    "category": "Data Management",
+    "tags": [
+      "data-management",
+      "data-governance",
+      "metadata",
+      "data-quality",
+      "data-lineage",
+      "data-products",
+      "data-catalog",
+      "observability",
+      "semantic-layer"
+    ],
+    "summary": "Explore how Data Management is evolving from a governance and compliance function into the trust and coordination infrastructure that enables Organizational Intelligence in AI-native enterprises.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence-advanced/topics/data-management-evolution/"
+  },
+  {
     "title": "Data Engineering",
     "category": "AI Engineering",
     "tags": [

@@ -1,6 +1,7 @@
 {
   "reliability-engineering": [
     "ai-engineering-director",
+    "data-management-evolution",
     "distributed-systems",
     "production-ai"
   ],
@@ -12,7 +13,14 @@
     "ai-engineering-director",
     "rag-pipeline"
   ],
-  "data-engineering": [],
+  "data-management-evolution": [
+    "data-engineering",
+    "production-ai",
+    "reliability-engineering"
+  ],
+  "data-engineering": [
+    "data-management-evolution"
+  ],
   "llm-systems": [
     "ai-engineering-director"
   ],
@@ -21,6 +29,7 @@
   ],
   "production-ai": [
     "ai-engineering-director",
+    "data-management-evolution",
     "distributed-systems",
     "reliability-engineering"
   ],
